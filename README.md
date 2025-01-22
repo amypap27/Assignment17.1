@@ -1,6 +1,7 @@
 # Assignment17.1
 This is CBMLAI Assignment 17.1: Practical Application 3
 
+
 Summary of Findings
 The goal of this project was to develop a machine-learning model that would effectively predict whether a marketing call to a customer would result in the client subscribing to a term deposit. Since this is a Yes/No classification task, I tried the classification models we have studied in this class, specifically: Logistic Regression, K-Nearest Neighbors, Decision Trees, and SVM.
 
